@@ -2,24 +2,24 @@
 <testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-04-21T03:00:53 IST" name="Default suite" finished-at="2026-04-21T03:01:04 IST" duration-ms="10309">
+  <suite started-at="2026-04-21T03:05:29 IST" name="Default suite" finished-at="2026-04-21T03:05:38 IST" duration-ms="8528">
     <groups>
     </groups>
-    <test started-at="2026-04-21T03:00:53 IST" name="Default test" finished-at="2026-04-21T03:01:04 IST" duration-ms="10309">
-      <class name="org.tests.Dmo">
-        <test-method is-config="true" signature="start()[pri:0, instance:org.tests.Dmo@636be97c]" started-at="2026-04-21T03:00:53 IST" name="start" finished-at="2026-04-21T03:00:59 IST" duration-ms="6055" status="PASS">
+    <test started-at="2026-04-21T03:05:29 IST" name="Default test" finished-at="2026-04-21T03:05:38 IST" duration-ms="8528">
+      <class name="org.tests.Day1Test">
+        <test-method is-config="true" signature="start()[pri:0, instance:org.tests.Day1Test@636be97c]" started-at="2026-04-21T03:05:29 IST" name="start" finished-at="2026-04-21T03:05:35 IST" duration-ms="5326" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method signature="taskThree()[pri:0, instance:org.tests.Dmo@636be97c]" started-at="2026-04-21T03:00:59 IST" name="taskThree" finished-at="2026-04-21T03:00:59 IST" duration-ms="10" status="PASS">
+        <test-method signature="taskThree()[pri:0, instance:org.tests.Day1Test@636be97c]" started-at="2026-04-21T03:05:35 IST" name="taskThree" finished-at="2026-04-21T03:05:35 IST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- taskThree -->
-        <test-method is-config="true" signature="close()[pri:0, instance:org.tests.Dmo@636be97c]" started-at="2026-04-21T03:00:59 IST" name="close" finished-at="2026-04-21T03:01:04 IST" duration-ms="4201" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:org.tests.Day1Test@636be97c]" started-at="2026-04-21T03:05:35 IST" name="close" finished-at="2026-04-21T03:05:38 IST" duration-ms="3136" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-      </class> <!-- org.tests.Dmo -->
+      </class> <!-- org.tests.Day1Test -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -3,11 +3,12 @@ package org.tests;
 
 import java.util.regex.Pattern;
 
-import org.demos.Demos;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class Dmo extends Demos {
+import day1.Day1Task;
+
+public class Day1Test extends Day1Task {
 	
 	@Test
 	public void taskOne() throws Exception {

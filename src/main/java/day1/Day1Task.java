@@ -1,4 +1,4 @@
-package org.demos;
+package day1;
 
 import java.util.regex.Pattern;
 
@@ -12,7 +12,7 @@ import com.microsoft.playwright.BrowserType.LaunchOptions;
 import com.microsoft.playwright.Page;
 import com.microsoft.playwright.Playwright;
 
-public class Demos {
+public class Day1Task {
 
 	protected Playwright playwright;
 	protected Browser browser;
