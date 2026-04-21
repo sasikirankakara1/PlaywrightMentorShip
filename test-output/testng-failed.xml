@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="org.tests.Dmo">
+      <class name="org.tests.Day1Test">
         <methods>
-          <include name="close"/>
-          <include name="taskThree"/>
           <include name="start"/>
+          <include name="testUrl"/>
+          <include name="close"/>
         </methods>
-      </class> <!-- org.tests.Dmo -->
+      </class> <!-- org.tests.Day1Test -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

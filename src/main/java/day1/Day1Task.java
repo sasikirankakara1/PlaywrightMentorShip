@@ -25,7 +25,7 @@ public class Day1Task {
 		browser=playwright.chromium().launch(new LaunchOptions().setHeadless(false));
 		browserContext=browser.newContext();
 		page = browserContext.newPage();
-		page.navigate("https://www.google.com");
+		page.navigate("https://www.demoblaze.com");
 	}
 	@AfterTest
 	public void close() {
